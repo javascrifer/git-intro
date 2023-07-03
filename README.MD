@@ -10,9 +10,9 @@
 
 ### Preparation
 Create 3 branches:
-1 `conflict-maker`
-1 `conflict-resolve-merge`
-1 `conflict-resolve-rebase`
+1. `conflict-maker`
+1. `conflict-resolve-merge`
+1. `conflict-resolve-rebase`
 
 You will use these 3 branches to create pull requests and resolve the conflicts.
 
